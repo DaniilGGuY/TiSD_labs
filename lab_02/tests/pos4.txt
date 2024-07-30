@@ -1,0 +1,1000 @@
+Petrov Andrew IU3-13B female 16 2.16 1.1.2019 2 44
+Sergeev Georgy SM3-13 female 19 3.58 22.9.2022 Letnaya 9 71
+Ivanov John IU3-13B male 20 2.27 11.8.2018 Letnaya 3 2
+Parshin Vyacheslav IU7-31B male 16 2.88 10.6.2018 Gorkovo 2 71
+Tuzov Daniil IU7-32B female 17 3.87 1.8.2019 3 297
+Vasnetsov Ivan IBM4-32B female 17 3.02 21.1.2018 Petrovka 6 46 15620
+Sidorov Andrew RK1-11 female 18 1.11 12.11.2023 Molodezhnaya 3 71 11847
+Cmirnov Georgy IU7-11B female 17 2.79 20.3.2021 1 130
+Parshin Ivan IU7-31B male 17 2.38 22.1.2022 Zavodskaya 8 71 13750
+Miheev Kirill IU7-31B male 18 1.45 16.11.2022 Gorkovo 6 26 13377
+Miheev Ivan IU7-31B male 18 4.46 8.7.2023 3 189
+Sidorov Evgeniy RL4-11B female 18 3.83 26.5.2020 Petrovka 7 39
+Silantiev Alexandr IU7-31B female 18 3.37 28.9.2020 Polynka 6 33 20818
+Sidorov Daniil IU7-33B male 18 1.69 14.10.2021 Molodezhnaya 8 5
+Petrov Alexandr IU3-13B male 17 1.51 14.3.2022 Sadovaya 10 1 12340
+Parshin Georgy RL4-11B female 16 4.47 3.6.2019 Petrovka 1 31
+Sergeev Petr IBM4-32B male 19 2.04 22.5.2019 Pervomayskaya 9 49 13775
+Tuzov Ivan IU7-31B female 18 2.81 9.12.2018 2 51
+Cmirnov Alexandr IU7-11B female 17 2.76 18.10.2022 2 255
+Parshin Ivan IU7-11B male 17 2.04 17.9.2023 Baumanskaya 6 6 16348
+Parshin John IU7-31B female 16 2.68 23.7.2019 Molodezhnaya 7 72 13820
+Vasnetsov Sergey IU7-33B female 18 3.94 25.2.2023 3 248
+Sergeev Georgy RL4-11B male 20 2.03 5.10.2020 2 284
+Ivanov Daniil IU3-13B male 20 1.33 14.2.2018 Letnaya 4 25
+Vorobev Vyacheslav RL4-11B female 19 2.7 22.5.2020 Molodezhnaya 3 8 28323
+Vasnetsov Evgeniy MT13-31M male 18 1.45 10.3.2019 3 97
+Tuzov Ivan RK1-11 male 19 4.58 5.5.2018 Gorkovo 1 22
+Ivanov Ivan IU7-33B male 18 4.23 24.10.2022 Nagornaya 2 42 15895
+Vorobev Georgy IU7-32B male 20 2.54 28.1.2018 2 93
+Sergeev John SM3-13 male 16 2.13 23.10.2023 Baumanskaya 5 1 20122
+Silantiev Daniil IU7-32B female 18 2.41 16.2.2020 Baumanskaya 10 60 15619
+Parshin Daniil IU7-31B male 20 4.18 15.1.2018 Pervomayskaya 10 17 12874
+Vasnetsov Sergey IU7-33B male 19 3.33 5.11.2020 1 58
+Vorobev Georgy MT13-31M male 18 3.3 24.8.2023 Pervomayskaya 8 62
+Sidorov Kirill SM3-13 male 18 2.03 2.2.2020 Gorkovo 6 66
+Miheev Daniil IU7-33B female 20 1.75 1.8.2018 Molodezhnaya 2 17 21108
+Silantiev Ivan IU7-33B female 18 4.91 19.7.2021 Baumanskaya 7 24 27100
+Silantiev Evgeniy IBM4-32B male 16 2.97 5.8.2021 4 187
+Miheev Daniil MT13-31M female 18 1.95 17.1.2021 Gorkovo 6 66
+Tuzov Ivan SM3-13 male 17 4.3 10.1.2020 Polynka 10 51
+Vorobev Sergey RK1-11 female 17 1.16 2.12.2019 Pervomayskaya 8 26 14891
+Vasnetsov Andrew IU7-33B male 18 2.27 3.6.2018 2 270
+Petrov Evim IBM4-32B male 16 1.91 20.8.2023 Gorkovo 2 28 21279
+Parshin Georgy IU3-13B male 19 3.63 26.1.2022 4 141
+Sergeev Ivan IU3-13B male 20 1.04 20.7.2019 Sadovaya 7 18
+Ivanov Evgeniy IBM4-32B male 19 3.09 19.5.2018 Letnaya 1 66
+Petrov Ivan RL4-11B male 16 4.77 22.3.2018 Nagornaya 8 52 10355
+Parshin Vyacheslav IU7-31B female 16 4.03 20.8.2023 Sadovaya 4 32 16404
+Parshin Vyacheslav IU3-13B female 17 4.97 2.10.2019 Baumanskaya 9 4 27972
+Vorobev Sergey MT13-31M female 16 2.15 2.4.2023 Molodezhnaya 6 38 18839
+Silantiev Daniil IU7-31B male 18 4.0 17.12.2020 Sadovaya 5 29 20773
+Tuzov Evim SM3-13 female 16 3.92 10.5.2019 Baumanskaya 5 60 25104
+Vasnetsov John MT13-31M female 16 1.46 9.3.2019 Molodezhnaya 6 20
+Sidorov Alexandr MT13-31M female 20 3.41 20.7.2020 Baumanskaya 7 41 10110
+Cmirnov Andrew IU7-11B female 19 1.95 10.1.2023 Molodezhnaya 9 59 23853
+Sidorov Evgeniy IBM4-32B female 17 2.78 5.5.2023 Petrovka 7 30 17647
+Cmirnov Vyacheslav IU7-31B male 19 4.75 9.10.2021 Molodezhnaya 10 65 26841
+Sergeev Evim IU7-31B female 16 4.06 6.3.2022 Nagornaya 5 43
+Parshin Kirill RK1-11 male 20 3.38 8.5.2020 Petrovka 4 9
+Petrov Georgy IU7-32B female 20 2.83 4.8.2020 2 152
+Vorobev Evim MT13-31M male 19 1.42 15.2.2021 Nagornaya 6 73 16829
+Sidorov John IBM4-32B female 19 2.07 5.5.2022 5 15
+Parshin Kirill IU3-13B female 18 1.77 4.1.2022 Polynka 5 15 21730
+Tuzov John IU3-13B female 17 3.24 19.6.2020 Polynka 1 49
+Vasnetsov Georgy IBM4-32B male 19 1.56 21.1.2022 1 3
+Parshin Alexandr RK1-11 female 20 3.56 5.5.2021 Polynka 7 42 29560
+Sidorov Andrew IU3-13B female 17 4.87 12.8.2021 3 21
+Parshin John IU7-33B male 19 3.43 20.2.2023 Sadovaya 7 44 10949
+Parshin Vyacheslav SM3-13 male 20 4.3 11.10.2020 Molodezhnaya 8 25 11975
+Silantiev Alexandr RL4-11B male 20 2.87 1.6.2018 Gorkovo 4 73 19003
+Miheev Ivan SM3-13 female 18 4.38 3.5.2020 4 244
+Tuzov Kirill IU7-32B male 19 4.93 28.4.2023 Letnaya 10 30
+Sergeev Vyacheslav IU7-11B male 20 1.56 3.4.2022 1 158
+Vorobev Evim RK1-11 male 19 1.29 3.7.2019 4 180
+Tuzov Daniil IU7-32B female 17 4.87 23.7.2018 Molodezhnaya 2 50
+Vasnetsov Alexandr IU7-11B female 17 4.05 27.12.2020 Pervomayskaya 7 67 16158
+Cmirnov Petr SM3-13 male 19 2.94 15.12.2020 1 144
+Sidorov Vyacheslav MT13-31M male 16 3.92 26.1.2023 Sadovaya 1 34 18676
+Vorobev Petr IU7-33B female 17 4.84 17.1.2020 Baumanskaya 10 1 20748
+Miheev Kirill SM3-13 male 19 2.42 9.3.2021 Letnaya 10 6
+Tuzov Daniil IU7-11B male 18 1.09 20.11.2019 4 97
+Petrov Andrew IU7-33B male 19 1.19 22.8.2019 Sadovaya 10 47 15174
+Vorobev Evgeniy IU3-13B female 18 3.73 21.3.2021 Gorkovo 5 27 28831
+Cmirnov Ivan RK1-11 male 19 4.26 19.12.2018 4 29
+Petrov Evgeniy IU7-33B male 18 3.93 23.6.2023 Baumanskaya 4 49
+Parshin Kirill IU7-31B female 19 1.94 8.5.2018 Gorkovo 5 28
+Vorobev Daniil IBM4-32B male 17 3.85 26.2.2022 2 230
+Silantiev Evim IBM4-32B female 17 2.94 20.10.2022 3 67
+Miheev Evim IU7-33B male 16 2.75 13.9.2018 Gorkovo 1 39 26253
+Vasnetsov Daniil IU7-32B female 18 3.08 11.9.2021 Baumanskaya 2 50
+Petrov Vyacheslav IU7-32B female 19 2.11 26.2.2023 Petrovka 3 31
+Vorobev Vyacheslav RL4-11B female 19 4.72 23.4.2019 Letnaya 8 50 20166
+Parshin Vyacheslav IU7-31B female 19 2.51 18.6.2019 Baumanskaya 6 43 27568
+Cmirnov Daniil RK1-11 male 16 4.88 6.8.2023 Polynka 2 29
+Ivanov Andrew RL4-11B male 18 3.87 6.11.2023 4 166
+Parshin Ivan IU7-32B male 16 1.02 24.7.2020 Gorkovo 10 4 24450
+Cmirnov Kirill IBM4-32B male 18 3.66 13.3.2018 Molodezhnaya 2 75
+Sidorov Andrew IU7-33B female 16 3.49 7.11.2023 Nagornaya 6 75
+Vorobev Ivan IU7-11B female 16 2.62 4.1.2020 Baumanskaya 6 64
+Ivanov Kirill RK1-11 female 18 3.58 2.9.2022 1 87
+Parshin Alexandr RK1-11 female 17 2.39 25.6.2021 Gorkovo 5 71
+Vasnetsov Sergey IBM4-32B male 19 3.7 14.9.2019 Polynka 1 38
+Tuzov Petr IU7-31B male 19 1.15 23.8.2018 Letnaya 8 31
+Cmirnov Evim IU7-11B female 20 1.93 26.12.2022 Sadovaya 7 26 26037
+Ivanov Vyacheslav RL4-11B female 17 4.6 24.10.2021 Sadovaya 3 23 10290
+Cmirnov Evgeniy IU7-31B female 19 3.06 8.7.2023 Gorkovo 3 35
+Tuzov Sergey IU7-33B female 16 4.77 15.4.2022 5 164
+Silantiev Evim IU7-11B male 19 1.23 15.8.2023 Zavodskaya 7 27
+Ivanov Ivan IBM4-32B female 19 2.06 11.6.2023 Zavodskaya 1 19 10257
+Ivanov Petr IU7-31B male 20 1.22 21.7.2023 Letnaya 5 46 21310
+Parshin Georgy SM3-13 female 19 3.76 28.9.2022 1 159
+Petrov Alexandr IU7-11B female 17 4.46 24.9.2018 4 49
+Petrov Vyacheslav RL4-11B female 16 3.07 1.4.2023 Zavodskaya 9 66
+Petrov Alexandr RL4-11B male 19 2.51 1.8.2021 3 178
+Silantiev Andrew IU7-32B male 20 2.84 11.8.2018 Molodezhnaya 2 39 28515
+Silantiev Alexandr IU7-11B male 18 4.88 6.7.2023 Gorkovo 10 57 26795
+Miheev Evgeniy MT13-31M male 20 3.94 17.12.2023 5 257
+Miheev Vyacheslav IBM4-32B female 18 4.07 6.9.2023 Nagornaya 6 15
+Vasnetsov Alexandr IU3-13B female 19 3.96 11.4.2021 Zavodskaya 3 55 17593
+Silantiev Ivan IBM4-32B female 18 4.9 28.6.2022 Zavodskaya 4 30
+Sidorov Ivan MT13-31M female 19 3.59 7.6.2021 3 116
+Cmirnov Andrew IU7-31B female 19 4.26 28.1.2019 Molodezhnaya 2 14 17230
+Cmirnov Ivan IBM4-32B male 20 3.5 12.9.2022 Zavodskaya 9 43 18425
+Cmirnov Alexandr IU7-33B male 20 3.69 4.10.2020 Zavodskaya 9 14
+Miheev Vyacheslav MT13-31M male 19 3.67 11.8.2023 1 176
+Silantiev John RK1-11 female 19 1.74 24.10.2022 Pervomayskaya 1 14
+Ivanov Sergey IU3-13B female 18 3.55 21.9.2023 5 129
+Vorobev Petr IU7-31B male 16 4.29 24.11.2023 Petrovka 9 12
+Parshin Andrew RK1-11 male 19 2.1 6.8.2020 4 186
+Tuzov Sergey IU7-32B male 20 4.89 21.3.2019 Gorkovo 6 74
+Ivanov Evim IBM4-32B male 16 3.74 9.11.2021 Polynka 1 49 16075
+Vasnetsov Evim IU7-33B female 16 1.57 25.11.2023 Pervomayskaya 8 23 12472
+Parshin Andrew SM3-13 female 19 4.61 1.1.2020 Molodezhnaya 10 35 11809
+Miheev Evgeniy RL4-11B male 20 2.3 19.10.2020 Nagornaya 1 66 12094
+Vasnetsov John SM3-13 male 18 3.1 9.12.2019 Petrovka 10 29
+Vasnetsov Petr IBM4-32B male 16 4.12 26.5.2021 Baumanskaya 6 12 18948
+Tuzov Petr IU7-32B male 16 3.23 23.6.2018 Petrovka 6 37 27212
+Cmirnov Sergey MT13-31M female 20 2.52 1.2.2018 3 57
+Silantiev Sergey IU7-31B female 19 3.4 25.6.2023 Polynka 8 68
+Ivanov Evgeniy IU7-33B male 20 2.76 6.12.2018 Petrovka 10 72 19614
+Miheev Petr MT13-31M female 18 4.93 11.3.2018 3 95
+Silantiev Vyacheslav IU7-31B female 16 2.51 19.7.2022 Gorkovo 9 45
+Ivanov Petr SM3-13 male 19 3.97 5.3.2019 Sadovaya 4 42 12010
+Cmirnov Alexandr RL4-11B male 16 2.4 11.7.2020 3 183
+Sidorov Ivan MT13-31M female 20 3.07 12.3.2020 2 176
+Miheev Vyacheslav IBM4-32B female 19 3.55 16.3.2023 Letnaya 5 73
+Cmirnov John IU7-32B male 19 2.01 24.12.2018 Nagornaya 5 46 18490
+Cmirnov John IU7-32B male 16 3.17 16.2.2021 Letnaya 6 74 25667
+Cmirnov Andrew IU7-33B male 17 3.25 4.5.2020 Letnaya 3 31 21506
+Vasnetsov Georgy RL4-11B female 16 4.08 23.10.2023 1 119
+Tuzov Petr MT13-31M male 18 4.38 3.5.2019 Molodezhnaya 2 75 21453
+Sidorov Evim IBM4-32B male 17 3.8 24.4.2019 Molodezhnaya 3 67 22180
+Vorobev Petr IU7-31B male 19 1.93 14.11.2023 Polynka 8 62
+Tuzov Petr SM3-13 female 17 4.34 14.10.2023 Nagornaya 3 69
+Petrov Sergey MT13-31M male 19 4.83 26.3.2022 5 271
+Sidorov Evgeniy MT13-31M male 19 3.44 25.6.2020 Molodezhnaya 7 35
+Vasnetsov Sergey IU7-11B female 19 2.34 22.10.2022 Gorkovo 1 13
+Tuzov Kirill IBM4-32B male 17 3.1 16.7.2021 5 295
+Cmirnov Georgy IU7-31B male 16 3.39 12.10.2023 Baumanskaya 6 52 19040
+Vorobev Petr SM3-13 female 16 4.47 27.5.2021 1 267
+Vorobev Kirill RK1-11 male 17 3.04 16.6.2020 Zavodskaya 6 6
+Vasnetsov Petr IU3-13B male 18 4.71 2.10.2022 1 192
+Sidorov Evim SM3-13 female 20 4.15 24.3.2023 Molodezhnaya 1 38
+Miheev Sergey IU7-31B male 16 3.75 25.4.2018 Sadovaya 5 6 25906
+Cmirnov Ivan IU7-32B female 16 1.3 25.4.2020 2 276
+Tuzov Alexandr SM3-13 male 19 2.24 1.2.2021 Polynka 10 8 11812
+Sergeev Andrew IU7-31B male 16 2.59 13.9.2018 Letnaya 4 38 25928
+Tuzov Kirill IBM4-32B male 17 2.24 13.7.2018 5 245
+Cmirnov Georgy RL4-11B male 17 4.98 28.4.2021 Letnaya 3 32 26322
+Miheev Ivan IU7-32B male 20 1.52 18.3.2018 Petrovka 3 61 17964
+Sidorov Sergey IU7-11B male 20 4.78 11.4.2019 Letnaya 5 73
+Silantiev Evgeniy IBM4-32B female 17 2.38 23.9.2021 Molodezhnaya 9 72
+Sergeev Evgeniy IU7-32B male 19 3.9 6.6.2019 Sadovaya 6 44
+Sidorov John IU7-33B female 18 4.08 16.8.2019 Baumanskaya 8 58 24027
+Petrov Petr IU7-32B male 16 4.66 11.6.2018 Petrovka 8 35
+Silantiev Georgy IU3-13B female 17 3.86 17.2.2018 Pervomayskaya 6 4
+Petrov Sergey RL4-11B male 17 3.64 25.4.2019 Letnaya 10 64 27355
+Sidorov Andrew IU7-32B male 17 1.96 28.4.2022 Nagornaya 3 38 27040
+Sergeev Sergey MT13-31M male 17 1.97 5.6.2023 Letnaya 9 13 12888
+Cmirnov John IU7-33B female 20 1.41 5.3.2021 3 108
+Sidorov Andrew IU7-11B male 19 4.41 27.8.2018 Petrovka 5 31
+Miheev Kirill IU7-33B female 16 3.35 1.9.2022 Gorkovo 3 39
+Silantiev Daniil IBM4-32B female 16 2.56 18.11.2021 Molodezhnaya 2 39
+Tuzov Vyacheslav IU7-31B male 18 1.91 27.7.2019 Nagornaya 2 50
+Miheev Evgeniy RL4-11B male 17 2.12 28.8.2018 Nagornaya 6 7 14678
+Parshin Evim IU7-32B male 18 4.53 2.3.2023 Pervomayskaya 1 19
+Cmirnov Petr IBM4-32B female 16 4.72 12.1.2020 2 275
+Vasnetsov Vyacheslav RL4-11B male 19 1.23 11.7.2019 Gorkovo 10 45 26633
+Petrov Evim RL4-11B female 20 4.21 11.11.2018 1 17
+Sidorov Evgeniy IU7-31B male 17 4.49 5.11.2023 5 22
+Vasnetsov Evim IU7-32B female 18 3.85 9.4.2021 Petrovka 3 45
+Sidorov Andrew MT13-31M male 17 2.3 14.5.2021 1 219
+Parshin Petr IU7-32B female 18 3.85 9.7.2020 Zavodskaya 2 33
+Sergeev Vyacheslav IBM4-32B female 19 3.98 26.1.2022 Letnaya 3 73
+Sidorov Daniil SM3-13 male 16 4.26 25.8.2020 Gorkovo 6 36
+Silantiev Evim IU3-13B male 20 3.14 12.6.2023 Letnaya 9 73
+Vasnetsov Evim IU7-33B male 19 4.97 24.4.2020 3 262
+Cmirnov Ivan MT13-31M female 19 2.48 28.10.2022 1 38
+Sidorov Ivan IU3-13B female 17 2.67 7.3.2021 Letnaya 5 2
+Ivanov Kirill IU7-31B female 16 3.7 24.3.2022 1 105
+Parshin Vyacheslav RK1-11 male 19 4.92 28.10.2022 Polynka 8 15 23726
+Petrov Evim IBM4-32B female 20 1.14 12.1.2019 5 82
+Sergeev Sergey RL4-11B female 18 2.93 27.2.2023 Polynka 1 52 13126
+Petrov Alexandr IU7-32B female 19 3.04 19.5.2021 4 114
+Ivanov Vyacheslav RL4-11B male 16 1.31 5.10.2022 Gorkovo 2 66
+Sidorov Georgy MT13-31M female 16 4.22 17.10.2018 Sadovaya 3 62
+Miheev Daniil SM3-13 male 19 3.76 27.1.2018 1 27
+Tuzov Evgeniy RK1-11 female 16 1.88 25.11.2019 2 245
+Parshin John IU7-32B male 20 2.74 14.2.2019 Pervomayskaya 5 45 21152
+Cmirnov Alexandr IU7-11B female 18 3.78 24.6.2019 Petrovka 2 9
+Vasnetsov Ivan IU7-32B male 16 1.03 28.1.2023 1 221
+Tuzov Petr IU7-31B female 16 3.0 7.8.2018 1 178
+Miheev Daniil SM3-13 male 19 4.1 5.8.2021 Polynka 10 37
+Petrov Ivan RL4-11B female 19 4.28 16.3.2020 5 58
+Petrov Georgy IBM4-32B female 20 2.34 1.1.2022 Letnaya 9 38 11951
+Sergeev Andrew MT13-31M female 20 2.0 25.1.2018 Molodezhnaya 5 2 25022
+Vorobev Evgeniy MT13-31M male 20 2.14 18.8.2021 Gorkovo 7 75
+Tuzov John RK1-11 male 16 1.44 4.10.2018 3 160
+Miheev Kirill IU7-11B female 19 1.22 21.9.2022 2 11
+Parshin Sergey RL4-11B male 16 3.69 21.8.2019 Petrovka 3 33
+Cmirnov Sergey IU3-13B male 19 2.1 15.2.2019 Sadovaya 4 17
+Petrov Kirill RL4-11B female 18 2.46 15.11.2023 4 19
+Vasnetsov Daniil IU7-11B male 18 2.53 1.4.2021 1 52
+Vasnetsov John RK1-11 male 19 2.45 26.4.2022 Sadovaya 4 38 23835
+Petrov Ivan IU7-32B female 18 1.21 23.4.2018 Baumanskaya 6 47
+Vasnetsov Evgeniy IU7-11B female 19 3.65 16.12.2018 5 37
+Vorobev Alexandr IBM4-32B female 17 2.15 9.7.2023 Baumanskaya 1 9 15163
+Tuzov Evgeniy SM3-13 female 17 2.51 10.12.2018 4 293
+Miheev Evim IU7-31B male 19 2.61 3.12.2023 2 49
+Tuzov Evgeniy IBM4-32B male 19 1.61 7.9.2019 5 154
+Sidorov Evgeniy IU7-32B female 19 2.33 13.3.2023 3 286
+Tuzov Vyacheslav IBM4-32B male 17 2.88 14.6.2019 Letnaya 1 69
+Miheev Andrew RL4-11B female 20 4.44 14.11.2022 Pervomayskaya 3 42 28216
+Sidorov Alexandr IBM4-32B female 20 3.25 27.2.2019 Letnaya 4 21 19518
+Cmirnov Kirill IU7-11B female 20 1.8 2.5.2019 Polynka 6 59 18703
+Vorobev Sergey IU7-32B female 17 1.06 4.9.2022 Sadovaya 1 24
+Sidorov Evgeniy IU3-13B female 20 1.79 12.2.2021 2 91
+Ivanov Petr IU7-32B male 18 1.33 20.9.2019 Petrovka 8 65
+Tuzov John IU7-33B female 17 2.45 16.9.2022 Baumanskaya 3 73 20313
+Miheev Ivan SM3-13 female 16 3.01 24.4.2022 Polynka 10 5 23278
+Cmirnov Petr IBM4-32B female 16 2.19 16.1.2020 Petrovka 5 12
+Vorobev Georgy IU7-31B female 16 1.88 24.2.2018 2 41
+Vorobev Evgeniy IU3-13B female 16 3.99 1.3.2019 Baumanskaya 1 66 16064
+Ivanov Evgeniy IU7-31B female 17 2.49 18.8.2020 Baumanskaya 6 58
+Vorobev John RK1-11 male 19 3.55 19.7.2018 4 224
+Sergeev Andrew IU7-31B male 20 3.24 8.12.2023 3 51
+Cmirnov Petr RK1-11 female 19 3.47 5.1.2021 3 111
+Petrov Vyacheslav IU7-11B female 17 1.0 2.12.2018 Molodezhnaya 3 72
+Miheev Petr IU7-11B male 20 4.42 12.10.2018 Gorkovo 2 7
+Ivanov Ivan SM3-13 male 16 4.34 6.8.2021 Nagornaya 6 75 14446
+Cmirnov Vyacheslav IBM4-32B female 16 2.54 27.10.2023 Molodezhnaya 6 27
+Petrov Georgy IU7-32B male 16 1.33 19.5.2023 4 34
+Miheev Alexandr IBM4-32B female 17 1.07 21.9.2020 Baumanskaya 10 4 12958
+Silantiev Daniil IU3-13B female 17 3.69 18.7.2022 Sadovaya 10 62
+Silantiev Alexandr IU7-31B male 19 1.79 1.7.2021 4 278
+Miheev Evgeniy IU7-33B female 20 1.54 28.2.2023 1 113
+Vasnetsov Evgeniy IBM4-32B female 17 3.28 3.8.2022 4 143
+Petrov Daniil IU7-11B female 20 1.68 27.10.2020 4 165
+Parshin Kirill RK1-11 male 16 3.72 15.11.2019 2 29
+Vasnetsov Sergey RL4-11B male 16 2.7 27.3.2022 2 148
+Vorobev Sergey MT13-31M male 18 2.32 9.12.2022 Sadovaya 6 18 15229
+Sergeev Vyacheslav IU7-11B female 20 1.38 8.2.2023 Zavodskaya 7 26 21972
+Vasnetsov Kirill IU7-32B male 20 2.85 22.4.2019 4 265
+Tuzov Evim IU7-32B female 20 3.41 19.6.2021 3 233
+Tuzov Daniil IU7-33B male 20 2.33 19.12.2022 Nagornaya 2 76
+Silantiev Vyacheslav IU7-33B female 17 3.51 5.8.2019 Nagornaya 4 44
+Sidorov Petr IBM4-32B male 17 2.78 16.3.2018 Molodezhnaya 10 53 12840
+Petrov Georgy IU3-13B male 20 3.74 13.8.2021 Pervomayskaya 7 76
+Vasnetsov Ivan IU3-13B male 20 4.52 18.3.2021 Polynka 6 36
+Parshin John RL4-11B female 16 4.42 5.4.2022 5 280
+Sidorov Evim IBM4-32B female 17 2.27 23.2.2020 5 237
+Vorobev Evim IU3-13B male 19 3.69 1.7.2022 4 263
+Vorobev Vyacheslav IBM4-32B female 19 1.74 28.9.2022 Letnaya 4 60 17071
+Sidorov Georgy IU7-31B female 16 2.72 19.8.2019 Pervomayskaya 4 8
+Vasnetsov Georgy SM3-13 male 17 4.88 21.10.2023 4 279
+Ivanov Alexandr IU7-31B male 19 1.28 7.1.2019 Gorkovo 9 9 17365
+Ivanov Petr RK1-11 male 19 3.03 12.6.2023 Nagornaya 10 55 22956
+Ivanov Evgeniy MT13-31M male 19 3.26 3.6.2018 1 14
+Vasnetsov Andrew IU7-33B male 17 4.77 1.1.2020 Sadovaya 3 11 25892
+Tuzov Sergey RL4-11B female 17 4.5 20.10.2022 2 217
+Tuzov Sergey SM3-13 female 16 4.39 23.6.2020 5 238
+Cmirnov Andrew IU3-13B female 18 1.53 28.1.2021 3 200
+Sidorov Kirill IU7-32B female 17 3.59 28.3.2023 Gorkovo 5 39
+Petrov Evim IU7-31B female 20 4.26 11.12.2022 Petrovka 3 73
+Silantiev Andrew IU7-33B male 17 2.37 28.4.2018 Molodezhnaya 9 46 24929
+Sidorov John SM3-13 female 20 4.98 19.2.2020 3 298
+Petrov Evgeniy SM3-13 female 16 4.16 8.10.2018 Gorkovo 1 33
+Sergeev Petr SM3-13 male 18 1.78 27.4.2019 Polynka 1 39
+Silantiev Petr IU7-32B female 18 4.46 18.12.2018 Molodezhnaya 9 21
+Tuzov Alexandr IBM4-32B female 18 1.72 10.10.2022 Zavodskaya 7 53 13097
+Vasnetsov Daniil IBM4-32B female 19 1.94 6.10.2019 Zavodskaya 6 12 27466
+Vorobev Evgeniy IU7-11B female 20 3.62 24.9.2021 Nagornaya 10 30
+Ivanov Kirill IU7-11B male 17 1.86 12.7.2019 4 248
+Vorobev Petr RK1-11 female 20 1.24 11.3.2020 5 226
+Petrov Vyacheslav IBM4-32B male 20 4.78 13.3.2021 Nagornaya 4 8
+Petrov Kirill IU7-33B female 17 1.92 7.5.2020 Baumanskaya 4 24
+Sergeev Vyacheslav RL4-11B female 18 2.78 2.8.2018 1 13
+Vorobev Kirill IU3-13B male 18 2.81 7.8.2023 Polynka 8 46 18478
+Sergeev Petr IU7-11B male 20 1.72 5.2.2021 Molodezhnaya 5 59
+Miheev Vyacheslav IU7-11B female 16 2.55 20.4.2018 Sadovaya 10 57
+Sidorov Vyacheslav IU7-32B male 19 1.59 9.10.2021 Pervomayskaya 4 47 10539
+Ivanov Daniil RL4-11B female 17 1.81 25.9.2021 Pervomayskaya 7 46 18713
+Vasnetsov Vyacheslav IU7-11B male 17 2.54 2.11.2022 Nagornaya 9 49 29624
+Petrov Daniil IU7-33B male 16 1.02 22.4.2018 1 196
+Vorobev Andrew IU7-33B male 20 3.27 18.5.2020 Gorkovo 7 3
+Vasnetsov Vyacheslav IU7-11B male 20 2.13 22.5.2019 Nagornaya 7 39
+Silantiev Ivan SM3-13 male 18 2.06 7.10.2022 Petrovka 8 50 27554
+Miheev Andrew IU7-31B male 16 4.09 17.9.2022 Zavodskaya 9 2 12931
+Petrov Vyacheslav IBM4-32B female 20 4.08 11.9.2019 Zavodskaya 7 25 26829
+Ivanov Evim IU3-13B female 17 2.4 27.9.2023 1 1
+Vorobev Petr RL4-11B male 18 1.17 13.8.2019 2 251
+Sergeev Andrew RK1-11 male 16 1.62 24.1.2023 3 156
+Miheev Sergey IU7-11B male 20 3.42 4.3.2022 2 282
+Sidorov Evgeniy RK1-11 male 19 1.84 4.12.2023 Baumanskaya 8 66
+Vasnetsov Alexandr RL4-11B female 20 1.73 5.3.2018 5 257
+Sergeev Sergey IBM4-32B female 16 3.27 11.7.2020 Zavodskaya 2 52
+Petrov Kirill MT13-31M male 20 3.97 25.1.2019 Petrovka 7 59 26068
+Vorobev Georgy SM3-13 female 16 2.32 5.7.2023 Nagornaya 7 21 15899
+Sidorov Ivan RK1-11 female 19 1.98 16.5.2021 4 299
+Tuzov Vyacheslav RK1-11 female 19 3.01 28.4.2023 Petrovka 6 16
+Vorobev Ivan RK1-11 female 19 1.35 10.1.2020 5 295
+Silantiev Daniil IU7-32B female 19 2.43 15.6.2023 2 20
+Ivanov Andrew RK1-11 male 18 3.93 3.7.2020 3 130
+Petrov Ivan IU7-11B male 20 1.8 26.6.2020 5 153
+Silantiev Evgeniy RK1-11 male 18 1.36 11.10.2023 Petrovka 1 37
+Miheev John SM3-13 male 17 2.87 28.10.2018 Sadovaya 5 14
+Silantiev Evim IU7-32B male 20 4.24 18.8.2020 2 58
+Petrov Vyacheslav RK1-11 female 18 3.89 25.1.2019 Sadovaya 8 33 15898
+Tuzov Daniil IU7-11B male 19 2.56 17.11.2020 2 149
+Vorobev Alexandr IBM4-32B female 19 1.22 18.10.2022 Baumanskaya 2 1
+Tuzov Vyacheslav IU3-13B female 17 2.65 1.10.2019 2 180
+Tuzov Georgy SM3-13 female 19 3.56 9.9.2022 3 102
+Ivanov Andrew IU7-32B female 16 3.33 3.10.2019 1 131
+Ivanov Alexandr IU7-11B female 18 3.5 23.9.2018 Petrovka 3 37
+Sidorov John IU7-11B male 20 4.82 12.6.2022 Pervomayskaya 6 31
+Petrov Kirill IU7-31B male 16 1.48 26.10.2019 4 200
+Vasnetsov Evim IU7-32B male 18 3.05 4.4.2021 Polynka 9 20
+Parshin Evgeniy IU7-11B male 19 1.87 6.7.2018 Letnaya 1 21 17707
+Ivanov Evgeniy SM3-13 female 16 4.14 8.4.2023 Baumanskaya 4 48 24014
+Vorobev Georgy IU3-13B male 20 2.49 17.8.2019 1 165
+Sergeev John RL4-11B female 20 4.88 21.2.2021 3 256
+Vasnetsov Sergey SM3-13 male 18 4.81 11.8.2019 1 258
+Petrov Ivan MT13-31M male 18 3.47 23.2.2018 Molodezhnaya 9 6
+Parshin Sergey IU7-32B male 20 2.65 8.6.2023 Molodezhnaya 6 13
+Tuzov Alexandr IU7-31B female 18 4.79 15.3.2022 5 39
+Vasnetsov Andrew RK1-11 female 18 1.12 21.6.2023 Polynka 7 8 19135
+Ivanov Daniil IU7-32B female 16 3.67 13.1.2018 Sadovaya 10 15
+Petrov Daniil IU7-33B male 20 4.31 27.4.2018 Nagornaya 2 25
+Vorobev Kirill RK1-11 male 20 1.52 15.11.2019 Pervomayskaya 2 69 13345
+Vasnetsov John IU7-11B female 17 2.42 8.4.2022 4 246
+Vorobev Ivan RK1-11 male 20 3.11 19.11.2018 2 262
+Tuzov Alexandr IU7-33B male 17 4.57 6.1.2022 Zavodskaya 7 52
+Tuzov Ivan RL4-11B female 18 2.67 24.4.2021 Sadovaya 5 17
+Silantiev Daniil IU7-32B male 16 1.23 14.7.2019 Letnaya 10 38 16539
+Miheev Kirill SM3-13 female 20 4.11 6.9.2018 Molodezhnaya 6 44 16219
+Parshin Andrew SM3-13 male 20 4.75 11.9.2020 Nagornaya 2 40
+Ivanov Petr IU7-33B male 16 1.06 8.6.2022 Polynka 5 4
+Tuzov Georgy IU7-31B female 17 2.91 28.8.2021 Nagornaya 7 60
+Petrov Evim IU7-32B female 16 2.25 20.12.2020 3 130
+Parshin John IU7-11B male 18 3.21 6.3.2020 Gorkovo 4 64
+Cmirnov Kirill RK1-11 male 20 4.49 23.4.2021 Zavodskaya 7 55
+Sergeev Georgy RL4-11B male 20 1.89 24.7.2021 4 228
+Petrov Ivan RK1-11 male 19 1.04 1.11.2020 Petrovka 5 9
+Parshin Vyacheslav IU7-11B female 16 2.09 15.9.2019 Zavodskaya 5 33
+Ivanov Daniil IU7-31B female 17 3.4 7.2.2020 Zavodskaya 9 33
+Vorobev Petr IU7-32B male 16 2.58 5.9.2020 Gorkovo 10 61 10700
+Silantiev Sergey IU3-13B female 18 2.98 6.6.2022 Baumanskaya 7 11
+Tuzov Alexandr SM3-13 male 18 2.3 12.4.2020 Zavodskaya 6 44
+Petrov Daniil RL4-11B female 18 2.09 24.12.2019 Polynka 9 31
+Vasnetsov John MT13-31M male 18 4.44 19.1.2020 Petrovka 7 58 19202
+Petrov Daniil RK1-11 female 20 1.5 4.1.2018 5 212
+Vasnetsov Evgeniy IU7-11B male 20 1.03 16.10.2023 3 290
+Miheev Sergey IBM4-32B male 17 5.0 26.3.2018 Nagornaya 7 44
+Tuzov Kirill IU3-13B male 20 3.47 11.5.2019 Sadovaya 10 21 29392
+Sergeev Alexandr IU7-11B female 17 4.98 17.6.2023 1 109
+Vorobev Sergey RL4-11B female 19 2.98 23.1.2018 Zavodskaya 8 72
+Vasnetsov Georgy MT13-31M female 19 4.95 10.5.2018 Nagornaya 1 23
+Silantiev Evgeniy SM3-13 male 20 1.41 20.10.2022 Zavodskaya 2 73 16708
+Vasnetsov Daniil MT13-31M female 19 1.41 13.10.2018 Molodezhnaya 7 49 20374
+Tuzov Alexandr IU3-13B female 17 2.07 12.6.2018 Molodezhnaya 8 15 21875
+Cmirnov Evgeniy IU7-33B female 17 1.22 3.5.2019 Polynka 5 44 17173
+Petrov Evim IU7-11B male 19 2.02 17.7.2021 Petrovka 7 73
+Vasnetsov Petr IU7-32B female 17 2.81 10.4.2022 1 240
+Silantiev Kirill RK1-11 male 17 1.62 11.10.2022 Sadovaya 6 22
+Cmirnov Sergey IU3-13B female 17 2.34 7.5.2020 Pervomayskaya 7 57 13045
+Parshin Georgy IU7-32B male 19 1.93 9.7.2023 Letnaya 5 43 24900
+Sergeev Vyacheslav SM3-13 male 20 2.76 28.3.2018 Letnaya 1 17 10332
+Miheev Georgy MT13-31M male 20 2.65 3.7.2019 Baumanskaya 3 45 25147
+Cmirnov Alexandr IU7-32B female 18 4.41 11.6.2020 Nagornaya 10 64 20971
+Parshin Georgy IU7-31B male 20 4.16 27.8.2021 2 45
+Parshin John IU7-33B female 16 1.48 9.8.2018 2 68
+Petrov Kirill IBM4-32B female 19 2.16 14.8.2022 Gorkovo 8 70 22552
+Sergeev Daniil RK1-11 female 17 3.53 7.11.2018 5 275
+Petrov Andrew IBM4-32B female 19 4.73 5.7.2019 Baumanskaya 1 76 11346
+Vorobev John MT13-31M female 17 1.36 12.8.2020 4 60
+Tuzov Sergey IU3-13B female 16 1.65 13.4.2021 Polynka 6 24 19306
+Ivanov Petr RK1-11 male 19 3.0 17.11.2021 Gorkovo 1 55 19289
+Vasnetsov John RL4-11B female 18 4.96 8.3.2018 Baumanskaya 8 54
+Tuzov Sergey SM3-13 male 16 3.09 16.12.2023 Gorkovo 7 17
+Parshin Petr RL4-11B male 16 1.2 17.2.2020 1 192
+Tuzov John RK1-11 female 17 1.29 21.8.2023 5 157
+Miheev Evgeniy SM3-13 male 19 3.99 11.12.2019 2 199
+Cmirnov Evim SM3-13 female 18 1.33 1.7.2021 Baumanskaya 1 64 23541
+Cmirnov Kirill MT13-31M female 20 3.96 20.3.2020 Baumanskaya 1 40 11660
+Vorobev Georgy RL4-11B female 17 2.81 18.1.2020 Sadovaya 8 8 14944
+Cmirnov Daniil RK1-11 male 20 3.17 8.5.2021 2 6
+Miheev Kirill RL4-11B male 18 3.82 26.11.2023 5 68
+Parshin Georgy IBM4-32B male 17 1.74 6.10.2019 5 250
+Vorobev Alexandr IU7-11B male 18 4.12 16.10.2021 5 185
+Vasnetsov Petr IU7-33B female 16 3.0 7.4.2021 Nagornaya 10 45
+Vorobev Andrew IU7-32B male 18 1.46 9.5.2022 5 77
+Petrov Evgeniy RL4-11B male 19 2.47 12.2.2020 1 110
+Vorobev Petr IU7-33B female 18 3.96 8.4.2018 Nagornaya 9 76 19322
+Silantiev Evim IBM4-32B male 19 3.66 13.11.2021 Baumanskaya 8 63
+Vorobev Evim SM3-13 male 19 4.81 16.9.2018 2 77
+Miheev Sergey RK1-11 male 19 3.8 23.2.2021 Sadovaya 10 33
+Cmirnov Vyacheslav RK1-11 female 17 1.53 26.5.2019 Gorkovo 6 50 25399
+Tuzov Kirill IU7-32B female 16 1.85 3.4.2023 3 109
+Silantiev Ivan IU3-13B female 19 3.07 18.8.2018 Zavodskaya 5 56 25954
+Cmirnov Andrew IU7-31B male 16 3.86 27.11.2020 Nagornaya 5 50
+Vasnetsov Evim RK1-11 male 17 4.46 20.4.2018 Molodezhnaya 5 23 29883
+Sergeev Vyacheslav IU7-33B male 17 4.49 28.7.2021 Sadovaya 1 74
+Tuzov Evgeniy SM3-13 male 19 2.54 27.5.2020 Polynka 5 49 27843
+Vorobev John IU3-13B male 20 4.04 9.1.2018 Pervomayskaya 3 5 12924
+Tuzov Georgy RK1-11 female 17 3.07 22.12.2021 Sadovaya 4 57
+Ivanov Georgy RL4-11B female 20 3.82 9.4.2023 3 270
+Silantiev Andrew IU7-31B female 19 1.79 2.1.2019 Letnaya 8 62 27782
+Petrov Petr RL4-11B female 19 3.46 25.3.2018 Gorkovo 1 11 11552
+Cmirnov Daniil SM3-13 female 18 4.42 17.7.2021 Zavodskaya 7 35 18663
+Silantiev Vyacheslav MT13-31M male 19 4.59 19.5.2022 Sadovaya 8 53 23274
+Sidorov Evim IU3-13B female 17 1.08 11.8.2023 Molodezhnaya 4 19
+Silantiev Evgeniy IU3-13B male 17 2.59 16.6.2021 1 112
+Sidorov Alexandr RK1-11 female 17 2.93 25.2.2018 Petrovka 1 31
+Parshin Daniil SM3-13 female 16 4.19 17.5.2022 Petrovka 5 20
+Vorobev Kirill IU7-31B male 20 3.42 18.12.2021 Petrovka 8 5 25922
+Sidorov Ivan IU7-32B male 16 3.65 25.3.2021 4 298
+Silantiev Georgy SM3-13 male 19 1.25 14.5.2020 5 291
+Parshin Ivan IU7-31B female 18 4.26 17.11.2022 Pervomayskaya 7 45 14396
+Petrov Ivan IU7-32B male 16 1.49 12.2.2022 5 69
+Parshin Alexandr RL4-11B female 16 3.46 16.2.2022 4 283
+Sidorov Vyacheslav IU7-31B male 18 4.37 24.5.2022 Molodezhnaya 9 4
+Vasnetsov John IU7-32B female 16 1.45 28.2.2023 4 189
+Parshin Alexandr RL4-11B male 20 4.12 6.4.2019 Zavodskaya 1 63
+Petrov Evgeniy IBM4-32B male 16 3.3 11.6.2022 3 50
+Parshin Sergey IBM4-32B female 18 1.19 11.4.2021 Baumanskaya 3 7 25667
+Tuzov Daniil RK1-11 male 20 1.86 14.12.2018 Molodezhnaya 9 52 25185
+Tuzov Evgeniy IBM4-32B male 16 4.03 8.5.2020 2 140
+Petrov Sergey IU7-33B male 16 4.31 11.2.2021 Baumanskaya 2 45 22631
+Sergeev Petr IU7-31B male 17 1.76 20.12.2023 Polynka 4 47 25876
+Cmirnov Ivan IU7-11B female 16 3.03 20.7.2020 Letnaya 1 32
+Parshin John IU3-13B female 17 4.22 20.7.2020 Zavodskaya 10 51 10400
+Vorobev Georgy SM3-13 female 18 2.04 1.2.2018 Gorkovo 8 40
+Ivanov Georgy MT13-31M female 19 2.27 15.12.2018 Sadovaya 5 22
+Ivanov Ivan IU7-32B female 19 3.77 5.8.2019 Pervomayskaya 9 63 19051
+Tuzov Evgeniy IU7-32B female 19 3.94 23.4.2020 Sadovaya 4 71 27808
+Tuzov Kirill IBM4-32B female 17 2.35 5.5.2023 Pervomayskaya 7 28 15302
+Vasnetsov Daniil IU3-13B female 19 2.16 28.12.2018 4 122
+Ivanov Evim MT13-31M male 19 2.53 16.3.2018 Pervomayskaya 7 47 29307
+Sergeev Andrew IU7-31B female 16 1.98 16.12.2019 2 264
+Parshin Andrew IU7-32B female 19 3.74 1.9.2023 Molodezhnaya 6 10
+Cmirnov Georgy RK1-11 male 17 4.66 3.4.2022 Sadovaya 5 69
+Vasnetsov Andrew SM3-13 male 20 1.33 23.8.2019 Pervomayskaya 2 19
+Silantiev Alexandr IBM4-32B male 16 1.04 8.12.2023 Sadovaya 8 27 27839
+Vorobev Alexandr SM3-13 male 18 5.0 20.6.2023 Zavodskaya 10 34
+Vorobev Petr RL4-11B male 20 1.73 24.2.2022 1 32
+Tuzov Andrew IU7-33B female 18 1.59 1.3.2023 Molodezhnaya 1 55 10554
+Tuzov Evgeniy RK1-11 female 16 4.45 10.1.2019 1 90
+Petrov Daniil IU7-33B male 17 4.68 27.8.2021 Baumanskaya 8 1
+Cmirnov Evim RL4-11B female 16 2.45 28.11.2022 Polynka 9 8 17474
+Cmirnov Sergey IU7-31B female 20 2.35 3.1.2019 3 289
+Sergeev Vyacheslav IU7-33B male 19 2.1 26.5.2020 Letnaya 2 30 23875
+Cmirnov Ivan IU7-32B female 16 3.54 10.8.2018 1 259
+Silantiev Alexandr IU7-32B female 16 3.99 8.12.2023 Nagornaya 8 68 15930
+Tuzov John IBM4-32B female 19 2.86 25.7.2020 1 29
+Tuzov Georgy IU7-11B female 18 3.39 8.1.2019 5 62
+Vorobev John IU7-33B female 17 1.54 19.5.2018 4 20
+Cmirnov Vyacheslav SM3-13 female 19 4.17 12.11.2022 4 254
+Sergeev Ivan RK1-11 male 20 4.99 28.7.2022 4 257
+Petrov Georgy IU7-33B female 17 4.95 8.7.2023 Sadovaya 9 55
+Sidorov Sergey SM3-13 female 20 4.35 24.7.2019 Sadovaya 5 2 19712
+Sergeev Andrew IBM4-32B female 19 3.3 28.6.2021 Zavodskaya 8 48 12475
+Ivanov Kirill IBM4-32B male 17 4.22 26.1.2018 1 3
+Sergeev Sergey IU7-31B male 18 4.74 17.11.2020 2 286
+Vorobev Evim IU7-32B male 20 4.39 4.10.2019 Gorkovo 1 68
+Vorobev Evgeniy RK1-11 male 16 1.46 26.6.2023 Zavodskaya 5 40 18420
+Sidorov Kirill IU7-11B female 19 1.74 7.4.2021 Polynka 8 67
+Ivanov Evgeniy RL4-11B female 20 1.62 20.6.2021 Molodezhnaya 2 55 27670
+Petrov Georgy RL4-11B female 20 1.73 21.9.2018 Molodezhnaya 5 49
+Ivanov Daniil IU7-32B female 20 1.49 6.10.2023 Baumanskaya 5 46
+Parshin Alexandr RK1-11 male 17 2.55 15.7.2021 Zavodskaya 10 25
+Tuzov Evim IU7-32B female 19 3.55 3.4.2019 2 148
+Miheev Evgeniy RL4-11B female 17 2.95 9.8.2019 Polynka 4 60
+Petrov Vyacheslav RL4-11B female 16 3.08 8.9.2021 Pervomayskaya 3 33 11214
+Parshin Evgeniy IU7-31B female 17 2.85 10.7.2018 2 250
+Tuzov Daniil IU7-33B female 18 4.32 12.12.2018 Pervomayskaya 7 23
+Vasnetsov Evim SM3-13 female 17 4.8 2.8.2022 Letnaya 6 56
+Sergeev Andrew MT13-31M male 17 2.55 15.7.2021 Petrovka 8 15
+Vorobev Daniil IU3-13B male 20 4.92 2.1.2019 Polynka 1 9 17971
+Tuzov Andrew IU7-32B female 16 3.16 6.8.2020 Sadovaya 6 76 13311
+Miheev John SM3-13 male 16 1.61 4.5.2018 Zavodskaya 3 17 18285
+Vorobev Daniil IU7-33B male 18 1.08 4.6.2023 Pervomayskaya 3 73 12267
+Vasnetsov Daniil IU7-33B male 19 2.17 24.10.2021 4 131
+Miheev Vyacheslav MT13-31M female 16 4.25 1.2.2023 5 158
+Sergeev Evim IU7-32B female 18 3.84 24.2.2022 Baumanskaya 10 44 12221
+Petrov Sergey IU7-11B female 16 4.65 4.12.2021 Petrovka 1 64 20926
+Miheev Daniil MT13-31M male 17 2.6 27.2.2021 2 94
+Ivanov Petr RL4-11B female 16 1.71 2.5.2021 Molodezhnaya 4 69
+Ivanov Sergey IU7-31B male 16 1.63 12.3.2019 Pervomayskaya 9 33 10163
+Tuzov Petr IBM4-32B male 16 1.06 22.5.2022 Letnaya 4 69
+Miheev Sergey RL4-11B male 19 4.37 18.7.2019 Molodezhnaya 4 38 20204
+Petrov Evgeniy RK1-11 female 17 2.01 27.10.2021 5 277
+Tuzov Andrew IU7-11B female 16 4.34 22.10.2022 Nagornaya 2 61
+Vorobev Daniil IU7-31B male 20 2.68 25.9.2022 Pervomayskaya 1 64 14704
+Miheev Andrew IU7-31B male 20 2.67 14.4.2022 2 227
+Parshin Evgeniy IU7-32B male 18 4.68 17.6.2019 Baumanskaya 6 37 29891
+Cmirnov Daniil IU7-11B female 17 1.41 24.8.2018 1 7
+Miheev Sergey IU7-33B male 19 3.78 22.3.2018 Baumanskaya 7 4 21207
+Silantiev Vyacheslav IU7-31B female 17 3.4 27.7.2021 Molodezhnaya 1 53
+Tuzov Evim IU7-11B female 18 3.78 18.1.2020 Sadovaya 3 6
+Silantiev Petr RL4-11B female 18 2.36 19.2.2020 Nagornaya 9 6
+Ivanov Kirill IU7-32B female 20 2.79 7.9.2019 Nagornaya 9 4 23624
+Miheev Georgy IBM4-32B male 20 3.66 5.12.2020 4 98
+Miheev Vyacheslav MT13-31M female 19 3.66 22.9.2020 Baumanskaya 4 57
+Silantiev Daniil IU7-33B female 18 2.66 5.4.2020 Zavodskaya 1 10 18264
+Miheev Vyacheslav IBM4-32B female 18 1.87 9.3.2022 3 286
+Parshin Vyacheslav IU7-32B male 17 1.93 18.9.2018 Letnaya 1 25
+Cmirnov Evim IU3-13B female 17 1.71 15.2.2019 5 300
+Sidorov Daniil IU7-33B female 19 2.05 19.11.2021 Polynka 8 47
+Silantiev Kirill IU7-11B female 19 2.73 28.7.2019 Molodezhnaya 1 10 10735
+Tuzov Sergey IU7-31B female 20 1.14 12.3.2018 Sadovaya 1 42 27104
+Ivanov Andrew MT13-31M male 16 3.6 25.11.2023 Pervomayskaya 5 74 19341
+Vasnetsov John IU7-32B male 18 2.73 18.7.2020 4 267
+Cmirnov Andrew IBM4-32B female 16 4.85 9.9.2020 Sadovaya 2 53
+Sidorov John RK1-11 female 20 3.06 23.7.2023 Molodezhnaya 7 69 12702
+Parshin Petr IU7-31B female 17 2.46 24.4.2022 Zavodskaya 3 75 20911
+Petrov Alexandr RL4-11B male 18 2.04 1.8.2019 Baumanskaya 2 55 12774
+Vasnetsov Sergey IU7-31B male 19 3.33 14.9.2018 Nagornaya 2 27 24845
+Petrov Ivan IU7-33B female 17 3.47 24.10.2019 4 149
+Vorobev Georgy IU7-31B male 16 3.72 15.3.2022 Gorkovo 3 24 10183
+Petrov Petr RL4-11B female 16 4.66 11.11.2023 Pervomayskaya 6 35 13893
+Vasnetsov Georgy IU7-32B male 16 1.85 1.12.2022 4 211
+Vorobev Kirill MT13-31M male 18 3.88 2.2.2019 Zavodskaya 5 74
+Vorobev Vyacheslav IBM4-32B female 18 4.65 3.5.2022 1 271
+Sergeev Kirill IU7-33B male 17 3.7 12.9.2019 Baumanskaya 5 13
+Vorobev Petr RL4-11B male 19 3.56 7.6.2018 Nagornaya 7 9
+Tuzov Evgeniy MT13-31M female 18 3.1 6.7.2022 Pervomayskaya 9 9 17538
+Petrov Evim IU7-31B female 20 1.6 1.2.2022 4 134
+Silantiev Vyacheslav IBM4-32B male 19 1.02 2.5.2022 3 293
+Silantiev Andrew RL4-11B male 17 4.05 14.12.2022 5 68
+Sidorov Ivan IU7-31B male 19 2.52 14.8.2018 3 141
+Sidorov Alexandr IU3-13B female 18 2.67 25.4.2021 Sadovaya 8 63
+Parshin Evim IU7-32B female 18 4.17 21.7.2021 Zavodskaya 7 14
+Vorobev Kirill IU7-31B male 17 3.07 19.5.2023 3 295
+Vorobev Petr IBM4-32B male 18 2.1 14.12.2018 Letnaya 2 59
+Parshin Ivan IU7-31B male 17 2.99 19.6.2023 1 177
+Sidorov Evim IU3-13B male 19 2.37 28.6.2018 Polynka 10 27 21528
+Petrov Sergey IU3-13B male 17 4.55 14.2.2023 1 246
+Petrov Sergey RL4-11B female 16 2.44 26.11.2018 Gorkovo 5 74 24577
+Cmirnov Kirill IU3-13B male 18 4.45 2.2.2022 Letnaya 7 18
+Tuzov Andrew IBM4-32B male 19 4.8 28.10.2023 Nagornaya 5 37 17027
+Silantiev Andrew IU3-13B male 16 2.68 16.2.2020 3 144
+Miheev Kirill RL4-11B male 20 1.92 13.11.2020 Pervomayskaya 4 40 27854
+Petrov Georgy SM3-13 female 17 3.54 2.4.2022 2 113
+Silantiev John RK1-11 male 18 2.29 9.6.2018 Petrovka 8 51 25367
+Vasnetsov Daniil IU3-13B male 18 2.37 5.10.2023 Nagornaya 5 48 29761
+Petrov Evim IU7-11B male 19 1.77 13.10.2022 5 289
+Petrov Ivan IBM4-32B male 20 2.16 7.9.2023 Sadovaya 8 7
+Cmirnov Georgy IU7-11B male 17 1.7 2.8.2022 2 48
+Tuzov Kirill MT13-31M male 18 1.33 27.10.2019 1 29
+Petrov Ivan IU7-32B female 17 2.21 24.1.2018 4 177
+Silantiev Evim RL4-11B male 19 4.8 14.12.2020 Zavodskaya 6 39
+Petrov Vyacheslav SM3-13 male 19 2.04 14.9.2021 Nagornaya 6 1
+Parshin Vyacheslav IU3-13B male 19 1.41 4.1.2023 Zavodskaya 8 72 13884
+Parshin Andrew IU7-31B male 20 3.92 10.1.2023 1 174
+Ivanov Vyacheslav MT13-31M male 17 4.66 23.3.2021 Letnaya 9 2
+Cmirnov Ivan RL4-11B male 20 1.05 18.3.2021 Molodezhnaya 2 41
+Petrov Vyacheslav IU7-31B male 16 3.05 8.5.2023 Polynka 2 19 15692
+Vorobev Daniil RL4-11B female 17 3.13 19.7.2018 Nagornaya 2 50
+Vorobev Georgy IU3-13B male 18 1.18 15.4.2022 1 272
+Petrov Evim IU3-13B male 16 3.91 16.5.2021 Baumanskaya 5 61 26496
+Sergeev Ivan IU3-13B female 20 1.65 20.4.2021 5 277
+Parshin Petr RL4-11B male 19 3.11 10.3.2021 Nagornaya 1 22 14831
+Cmirnov Ivan IU7-33B female 20 3.28 1.10.2020 Pervomayskaya 7 39 17600
+Parshin Evgeniy IU7-32B female 19 3.13 5.1.2023 Sadovaya 7 43
+Miheev Evgeniy IU3-13B female 18 3.04 6.3.2020 3 49
+Tuzov Evgeniy RK1-11 male 19 1.64 13.6.2018 1 159
+Parshin Alexandr IU7-31B female 18 3.76 21.11.2019 Nagornaya 3 13
+Sidorov Alexandr RL4-11B female 19 3.34 8.11.2019 1 254
+Tuzov Alexandr IU7-33B male 19 5.0 19.11.2022 Letnaya 5 30
+Cmirnov Daniil RK1-11 female 18 1.58 28.5.2018 4 254
+Miheev Andrew IU7-32B male 16 2.18 10.9.2023 Sadovaya 8 2 17240
+Tuzov Vyacheslav IU7-32B female 19 1.82 15.1.2018 Zavodskaya 4 3
+Sergeev Evgeniy IU7-31B male 19 2.83 18.5.2019 Sadovaya 4 28 27149
+Petrov Andrew SM3-13 female 18 1.71 20.4.2023 5 113
+Miheev Vyacheslav IBM4-32B male 16 4.85 12.3.2022 1 199
+Sergeev Andrew IU7-32B male 18 2.11 25.4.2019 Pervomayskaya 3 21
+Cmirnov Alexandr RL4-11B male 20 4.92 20.12.2022 Nagornaya 9 38
+Miheev Daniil IU7-11B male 20 4.74 14.3.2020 Nagornaya 8 76 25592
+Cmirnov Andrew RK1-11 female 19 3.57 14.11.2021 Letnaya 8 8
+Vasnetsov Vyacheslav IU7-33B male 16 3.67 18.9.2019 Nagornaya 8 64
+Ivanov Alexandr IU7-33B male 20 1.87 21.2.2021 Sadovaya 7 69
+Tuzov Evim RK1-11 male 20 4.6 19.7.2020 Polynka 3 44
+Vasnetsov Daniil RK1-11 male 18 2.45 21.3.2022 Nagornaya 1 20
+Ivanov Daniil IU7-33B male 19 2.98 22.9.2021 Nagornaya 9 34 27026
+Silantiev Kirill RL4-11B male 19 4.35 4.7.2019 Gorkovo 3 61 27034
+Vorobev Sergey SM3-13 male 17 2.17 4.12.2022 Gorkovo 10 37 24735
+Sidorov Evim IU7-33B male 17 3.44 15.10.2022 4 272
+Cmirnov Ivan IU7-32B male 19 1.8 11.6.2021 Sadovaya 2 37 10814
+Ivanov Daniil IU7-33B female 20 3.23 6.7.2023 5 278
+Petrov Daniil IU7-31B male 17 1.29 27.9.2018 Petrovka 4 15
+Sergeev Daniil RL4-11B female 20 1.32 11.9.2020 Sadovaya 4 66
+Sidorov Ivan SM3-13 male 17 4.44 2.3.2022 3 135
+Ivanov Evim IU3-13B male 16 2.63 8.9.2018 1 78
+Parshin Daniil IU7-31B female 18 4.78 15.7.2020 Nagornaya 8 58
+Ivanov Kirill IU3-13B female 16 1.78 10.2.2021 Sadovaya 8 21 23607
+Vasnetsov Andrew SM3-13 female 18 1.46 25.2.2022 Molodezhnaya 10 68 24206
+Sergeev Petr IU7-32B male 18 3.53 12.9.2018 Gorkovo 2 55 23018
+Tuzov Daniil RL4-11B male 17 2.67 7.11.2019 5 278
+Silantiev Andrew IBM4-32B male 20 1.68 8.2.2021 1 136
+Parshin Ivan RL4-11B female 16 1.3 10.8.2021 3 195
+Tuzov Vyacheslav IU7-31B female 16 3.67 24.2.2022 Gorkovo 2 24 18610
+Parshin Petr IBM4-32B male 20 4.52 9.4.2020 Molodezhnaya 8 70 18924
+Sidorov Vyacheslav IU7-32B male 18 3.16 7.5.2019 Petrovka 9 60 26045
+Vasnetsov John IBM4-32B female 17 4.22 18.8.2018 Molodezhnaya 3 11 28405
+Sergeev John RK1-11 male 17 3.5 28.5.2021 Polynka 8 17
+Sidorov Ivan SM3-13 male 20 2.24 12.3.2021 5 104
+Petrov Daniil MT13-31M male 19 4.72 5.10.2018 Pervomayskaya 7 34
+Sergeev John IU3-13B male 16 3.7 21.12.2018 3 79
+Vasnetsov Daniil IU7-33B female 19 3.6 16.4.2022 Nagornaya 3 52
+Vorobev Kirill IU3-13B female 19 3.95 4.4.2019 Gorkovo 7 47
+Miheev Petr IU3-13B female 17 4.55 12.7.2022 3 73
+Sidorov Evim RL4-11B female 18 1.81 8.8.2019 Molodezhnaya 7 48 14046
+Parshin Ivan IU7-32B female 19 3.23 17.1.2023 3 284
+Tuzov Vyacheslav IU7-31B female 18 3.21 3.1.2021 Nagornaya 6 25
+Tuzov Ivan SM3-13 male 17 1.07 15.4.2019 Nagornaya 1 54 12419
+Parshin Daniil RL4-11B female 17 4.87 2.1.2020 1 81
+Vorobev Georgy SM3-13 female 18 1.32 20.8.2022 Polynka 4 64 25620
+Silantiev Andrew RK1-11 female 20 2.44 2.4.2021 Letnaya 7 66
+Silantiev Daniil IU7-32B female 17 3.19 3.2.2019 Molodezhnaya 9 51
+Sergeev John MT13-31M female 20 3.78 4.2.2022 5 148
+Vasnetsov Georgy RL4-11B male 18 3.51 19.1.2020 Molodezhnaya 5 30
+Miheev Vyacheslav IBM4-32B female 18 3.37 4.7.2021 1 295
+Sidorov Evgeniy RL4-11B male 16 2.52 19.5.2021 2 161
+Vasnetsov John IU7-31B male 18 2.22 25.10.2019 Baumanskaya 3 44
+Parshin Sergey SM3-13 female 20 3.63 17.1.2021 Polynka 7 37
+Sidorov Alexandr IU3-13B female 20 1.05 25.9.2021 5 51
+Tuzov Petr SM3-13 male 18 3.77 21.8.2023 Petrovka 8 35 11082
+Tuzov Kirill IU7-33B female 19 2.29 20.12.2023 Letnaya 9 14
+Sidorov Evgeniy IU7-33B male 18 4.01 27.8.2022 Pervomayskaya 2 55 21962
+Tuzov John IBM4-32B male 19 1.68 11.11.2019 Letnaya 10 1 21675
+Parshin Petr IU7-11B female 20 1.2 7.1.2018 Pervomayskaya 9 13
+Miheev Petr IU7-33B male 19 2.74 8.1.2023 4 62
+Petrov Alexandr MT13-31M male 18 5.0 19.2.2019 Zavodskaya 2 68
+Miheev Petr SM3-13 male 19 3.95 16.8.2018 Nagornaya 10 68 10126
+Sidorov Evim IBM4-32B female 17 1.24 14.7.2023 5 14
+Vasnetsov Georgy SM3-13 female 16 1.94 18.5.2023 Sadovaya 8 22
+Tuzov Alexandr MT13-31M male 18 4.28 8.6.2022 Petrovka 1 10 16615
+Miheev Georgy IU7-33B male 18 2.7 19.1.2018 Nagornaya 3 7
+Miheev Evim IU7-11B male 19 3.47 4.11.2019 2 48
+Parshin John IU7-32B male 18 2.03 16.2.2020 Nagornaya 10 16
+Cmirnov Vyacheslav MT13-31M male 20 4.77 1.10.2020 Nagornaya 10 76
+Vasnetsov Evim RL4-11B male 17 2.05 8.2.2022 Pervomayskaya 9 2
+Vasnetsov Georgy IU7-11B male 19 2.87 2.6.2023 Petrovka 4 5 21449
+Silantiev Kirill SM3-13 male 19 3.26 26.11.2018 1 197
+Vorobev Evim RK1-11 male 17 3.4 28.1.2023 Zavodskaya 9 70
+Petrov Sergey IBM4-32B female 20 2.59 6.10.2021 Pervomayskaya 8 44 19591
+Parshin Vyacheslav IU7-31B female 20 1.82 8.12.2022 Gorkovo 2 38
+Vorobev Evgeniy RL4-11B male 19 1.71 8.9.2023 Nagornaya 4 23 26583
+Vorobev Petr IU7-11B female 18 4.61 4.3.2020 4 247
+Parshin Vyacheslav IU7-31B female 20 2.35 16.4.2023 Baumanskaya 5 7
+Parshin Andrew IBM4-32B female 16 1.12 16.4.2022 3 150
+Miheev Sergey IU7-32B male 18 3.32 28.1.2021 Polynka 7 73
+Vorobev Daniil MT13-31M female 17 1.73 9.7.2022 Molodezhnaya 9 16 13461
+Vorobev John IBM4-32B male 18 4.5 5.7.2021 Pervomayskaya 1 39 26200
+Vasnetsov John SM3-13 male 20 2.61 6.10.2021 3 251
+Sergeev John MT13-31M male 18 2.6 20.3.2021 Letnaya 8 11
+Silantiev Petr IBM4-32B male 19 1.96 24.8.2023 1 170
+Parshin Kirill IU7-31B male 16 1.15 15.12.2018 Molodezhnaya 5 75 24954
+Cmirnov Petr IU3-13B female 20 3.35 7.1.2022 Petrovka 3 75 27677
+Vasnetsov Daniil IU3-13B male 19 3.91 17.5.2020 Baumanskaya 6 27 13818
+Parshin Sergey MT13-31M female 17 3.74 10.5.2019 Letnaya 7 52
+Petrov Ivan MT13-31M male 17 3.37 8.8.2019 Nagornaya 2 41
+Sergeev Georgy IU3-13B male 17 4.12 7.1.2020 Molodezhnaya 2 7 12165
+Vasnetsov Petr IU7-11B female 16 1.42 13.8.2021 Baumanskaya 6 22 28404
+Sergeev Georgy IU3-13B female 18 1.69 5.7.2018 Baumanskaya 9 68
+Vasnetsov Petr IU7-33B male 16 3.57 16.8.2020 Nagornaya 3 28
+Silantiev Andrew IU7-31B male 16 2.32 24.3.2018 Pervomayskaya 4 63 25660
+Ivanov Sergey IBM4-32B female 18 1.04 22.3.2019 Petrovka 5 40
+Sergeev Daniil MT13-31M female 20 2.1 18.1.2022 3 168
+Silantiev Sergey IU3-13B male 17 4.65 14.1.2018 1 77
+Sidorov Andrew IU7-33B male 20 1.14 14.10.2021 2 221
+Tuzov Evgeniy IU7-33B male 19 2.52 21.11.2019 Pervomayskaya 7 6 28998
+Miheev Sergey RK1-11 male 16 1.77 23.1.2020 Zavodskaya 5 64
+Sidorov Evim IU3-13B male 16 2.29 16.10.2020 Zavodskaya 6 42
+Miheev John IU3-13B male 18 3.53 27.3.2022 5 106
+Sergeev Sergey IU7-33B female 16 2.47 10.10.2019 3 83
+Parshin Andrew IU7-11B male 18 2.25 8.5.2020 Polynka 4 43 24991
+Vasnetsov Daniil IU7-11B male 20 1.29 12.2.2023 Nagornaya 8 16
+Miheev Alexandr IU7-33B female 20 3.64 28.6.2022 Nagornaya 6 57 11087
+Sidorov Andrew IU7-11B female 20 1.38 7.10.2021 5 144
+Sergeev John IU7-32B male 17 2.84 11.4.2018 1 102
+Sergeev Ivan IU7-11B female 16 1.91 10.11.2018 4 89
+Ivanov Ivan IU7-33B male 18 1.45 8.1.2019 Molodezhnaya 4 59 11038
+Sergeev Petr IU7-31B female 19 3.22 6.1.2019 2 248
+Vasnetsov Ivan RK1-11 male 19 4.64 11.5.2022 4 31
+Cmirnov Ivan IBM4-32B female 17 2.59 20.5.2020 1 299
+Parshin Vyacheslav IU7-32B female 18 2.49 8.8.2019 Letnaya 2 12 17902
+Ivanov John IU7-33B female 20 3.99 26.3.2018 Polynka 3 44 26908
+Sergeev Kirill IU7-11B male 16 1.79 21.6.2018 3 165
+Miheev Evim IBM4-32B male 17 1.36 27.1.2022 Zavodskaya 9 1 11227
+Sidorov Kirill IBM4-32B male 17 2.14 21.9.2020 Zavodskaya 4 67 11301
+Parshin Kirill IU7-31B male 19 1.73 3.2.2019 Pervomayskaya 3 13
+Vasnetsov Kirill IU7-11B female 20 2.71 14.8.2020 1 131
+Parshin Andrew IU7-32B female 18 4.55 5.12.2018 3 93
+Ivanov Kirill SM3-13 female 16 3.06 24.3.2018 Baumanskaya 2 14 16250
+Petrov Kirill IBM4-32B female 19 3.7 6.12.2020 Letnaya 5 29 15306
+Vasnetsov Petr SM3-13 male 16 2.77 7.2.2020 3 101
+Sergeev Vyacheslav IU7-11B male 19 3.34 13.7.2021 4 238
+Tuzov Petr IU7-33B male 17 2.82 28.11.2018 Gorkovo 2 4 14590
+Petrov Ivan IU3-13B male 20 4.2 21.12.2022 Molodezhnaya 9 71
+Petrov Kirill RL4-11B male 19 1.04 14.7.2018 2 245
+Vorobev Kirill RK1-11 female 18 2.84 7.10.2020 Petrovka 5 60 28823
+Cmirnov Daniil IU7-33B female 18 2.66 4.6.2023 Baumanskaya 1 43
+Silantiev Alexandr IU3-13B male 18 2.59 22.11.2022 3 249
+Vorobev Ivan MT13-31M male 18 1.81 25.6.2020 4 63
+Ivanov Ivan IBM4-32B male 16 3.55 12.8.2022 Baumanskaya 10 71 24757
+Sidorov Vyacheslav IU7-11B female 20 3.79 28.5.2022 Zavodskaya 4 65 15136
+Miheev Ivan IU7-32B female 20 3.36 4.5.2023 Polynka 2 7 20455
+Cmirnov Evim RL4-11B male 19 1.43 14.11.2018 Letnaya 5 5 22413
+Miheev Petr IU7-33B male 17 4.63 2.8.2023 Petrovka 8 40 18757
+Petrov Evgeniy IU7-33B female 18 4.72 4.6.2019 Baumanskaya 6 27
+Miheev Ivan IU7-31B female 18 1.01 5.1.2023 Polynka 8 55
+Petrov John MT13-31M male 20 1.34 1.11.2021 2 113
+Ivanov Ivan IU7-11B male 18 1.19 16.4.2019 2 19
+Vasnetsov Evgeniy IBM4-32B male 20 4.15 7.3.2021 Letnaya 8 46
+Miheev Sergey IU7-31B male 17 2.71 7.5.2023 Polynka 1 33
+Silantiev John IU7-32B female 17 4.91 26.5.2023 Petrovka 4 16 19809
+Petrov Alexandr IBM4-32B female 16 3.49 4.4.2019 1 293
+Vasnetsov Evgeniy RK1-11 female 19 4.71 7.6.2023 3 297
+Sidorov Daniil IU3-13B female 20 3.69 27.3.2023 3 80
+Tuzov Sergey IU7-33B female 20 3.96 6.7.2019 Pervomayskaya 8 18 22024
+Vorobev Sergey RL4-11B female 20 3.96 7.8.2018 Sadovaya 9 35
+Vorobev Kirill RK1-11 male 19 1.94 19.1.2023 Gorkovo 2 37
+Vasnetsov Andrew IU3-13B female 20 4.23 17.3.2018 3 15
+Vorobev Alexandr IU7-11B male 19 4.52 28.11.2023 Sadovaya 8 44 18960
+Parshin Vyacheslav IU7-33B male 18 4.82 15.10.2018 Petrovka 2 34 22393
+Sergeev Vyacheslav IBM4-32B male 20 2.44 17.6.2020 Molodezhnaya 10 72 22475
+Cmirnov Evgeniy IU7-11B male 17 2.26 19.10.2021 1 122
+Petrov Vyacheslav IU3-13B female 19 2.87 2.12.2018 4 65
+Vorobev Andrew IU3-13B female 17 4.73 24.10.2019 Gorkovo 9 28 14481
+Miheev John IU7-11B female 19 2.77 11.8.2018 3 14
+Vorobev Petr IBM4-32B female 20 1.54 15.12.2019 3 216
+Silantiev Vyacheslav IBM4-32B male 16 2.24 11.1.2021 Pervomayskaya 10 34 19589
+Petrov Alexandr IU7-32B female 20 4.99 10.5.2018 Polynka 3 65
+Vasnetsov Petr IU7-33B female 17 4.07 15.7.2020 1 77
+Vorobev Vyacheslav RK1-11 male 18 4.46 13.8.2019 3 79
+Vorobev John RK1-11 female 19 1.83 15.4.2019 5 280
+Cmirnov Evim IU7-11B male 18 3.3 20.1.2023 3 80
+Silantiev Ivan SM3-13 female 16 3.75 23.3.2021 Petrovka 9 13
+Sergeev Petr SM3-13 female 20 1.97 20.4.2019 2 227
+Petrov Georgy MT13-31M female 19 1.23 27.10.2023 Pervomayskaya 3 8 15974
+Vasnetsov Vyacheslav SM3-13 female 19 1.68 8.2.2022 Pervomayskaya 4 67
+Sidorov Evim IU7-32B female 16 1.98 18.10.2020 Gorkovo 9 56 29047
+Sergeev Evim IU3-13B male 19 1.17 15.4.2021 2 187
+Parshin Evgeniy RK1-11 male 19 3.41 12.5.2021 Petrovka 3 38 11458
+Vorobev Petr SM3-13 male 16 1.85 16.11.2020 2 216
+Sergeev John IU7-32B female 18 2.04 24.11.2022 Sadovaya 6 29 29379
+Petrov Kirill IU7-33B female 20 4.18 16.3.2022 Pervomayskaya 3 67 15924
+Silantiev Andrew IU7-31B female 18 3.71 5.5.2019 Gorkovo 6 63 14478
+Sidorov Alexandr IU7-31B female 18 3.31 1.7.2020 Gorkovo 8 14
+Vasnetsov Georgy RL4-11B male 18 4.73 16.6.2021 Petrovka 8 13
+Petrov Petr IBM4-32B female 20 4.41 26.8.2019 Sadovaya 1 74
+Tuzov Petr SM3-13 female 20 1.75 12.2.2018 Letnaya 1 44 19342
+Vorobev Ivan IBM4-32B male 18 3.39 1.9.2021 Zavodskaya 2 66
+Miheev Kirill MT13-31M female 18 2.29 26.7.2023 3 171
+Cmirnov Sergey IU7-11B male 18 2.23 7.3.2019 3 241
+Vorobev Vyacheslav SM3-13 female 17 3.86 14.6.2020 Zavodskaya 4 30 25328
+Miheev Sergey MT13-31M female 20 2.02 18.6.2021 1 15
+Tuzov Vyacheslav IU7-31B female 19 1.13 5.12.2018 3 94
+Ivanov Evgeniy IU7-32B female 19 4.01 16.12.2020 Nagornaya 2 17 26466
+Ivanov Petr RL4-11B male 20 1.42 6.5.2020 5 164
+Ivanov Ivan SM3-13 female 19 3.08 10.4.2022 3 251
+Vorobev Alexandr MT13-31M female 18 2.09 22.11.2022 Petrovka 5 21 15787
+Ivanov Andrew RL4-11B male 18 1.53 24.3.2022 Polynka 10 52 10510
+Parshin Daniil IU7-32B female 17 3.5 15.11.2019 Pervomayskaya 4 27 20066
+Cmirnov Vyacheslav IBM4-32B female 20 3.74 5.5.2023 2 117
+Sergeev Vyacheslav IU7-32B female 18 3.52 25.6.2022 3 217
+Silantiev Sergey IU7-11B male 18 3.65 21.6.2022 Pervomayskaya 10 11 25162
+Silantiev John IBM4-32B male 16 4.4 7.4.2022 Pervomayskaya 5 12 27906
+Sidorov Petr IU7-33B female 19 4.53 8.12.2023 Sadovaya 2 58 17791
+Tuzov Petr SM3-13 male 19 4.51 27.10.2023 1 293
+Petrov Alexandr RK1-11 female 19 1.99 26.1.2022 4 100
+Ivanov Ivan MT13-31M female 20 2.1 27.5.2022 Sadovaya 2 54
+Tuzov Daniil IU7-31B male 17 3.88 24.4.2022 5 20
+Cmirnov Vyacheslav IU3-13B female 16 2.54 20.12.2022 Pervomayskaya 5 7 26410
+Vorobev Georgy IBM4-32B female 18 4.28 5.12.2018 Molodezhnaya 3 53 26484
+Cmirnov Evim IU7-32B female 16 2.36 13.6.2021 Sadovaya 10 50
+Sergeev Daniil MT13-31M female 17 4.54 23.9.2020 Molodezhnaya 7 2
+Cmirnov Alexandr RL4-11B female 16 3.62 10.2.2019 Nagornaya 5 38
+Sergeev Georgy IU7-33B female 17 2.23 21.6.2018 Letnaya 1 25
+Ivanov Daniil IU7-32B female 20 3.24 13.5.2021 Zavodskaya 9 65
+Sergeev Andrew IU3-13B female 18 3.92 19.11.2020 Pervomayskaya 10 21 13598
+Parshin Evim MT13-31M male 20 4.05 20.2.2022 Letnaya 1 41 20726
+Ivanov Kirill IBM4-32B male 16 3.71 5.4.2020 3 21
+Sidorov Kirill RL4-11B female 17 4.33 26.4.2023 Sadovaya 6 75 15208
+Ivanov Andrew RL4-11B male 20 4.2 24.4.2022 Petrovka 4 7 20382
+Parshin Kirill RK1-11 female 18 2.32 5.11.2023 4 69
+Sidorov Georgy IU7-33B male 20 1.0 24.10.2020 Petrovka 2 75 11686
+Vasnetsov Sergey IU7-31B female 17 4.05 25.2.2022 Polynka 6 52 17648
+Miheev Ivan MT13-31M female 17 1.21 22.10.2018 Pervomayskaya 5 35 25002
+Vasnetsov Evim RL4-11B female 20 1.17 7.11.2021 Gorkovo 4 1
+Petrov Ivan IU7-11B male 19 1.37 16.2.2018 Nagornaya 1 59 23851
+Cmirnov Ivan IU7-33B male 16 1.95 27.10.2019 Gorkovo 7 22
+Vasnetsov Evgeniy SM3-13 female 20 4.89 14.8.2022 Baumanskaya 2 51 16963
+Vorobev John MT13-31M male 20 4.2 5.11.2022 Baumanskaya 6 25
+Parshin Sergey SM3-13 male 18 1.69 5.1.2022 Petrovka 2 42 14241
+Parshin Daniil IU7-31B male 20 3.95 4.1.2019 3 65
+Ivanov Sergey MT13-31M female 19 2.9 12.7.2021 Sadovaya 3 61 16295
+Sergeev Daniil IU7-32B female 18 3.98 24.5.2023 Pervomayskaya 2 55
+Vasnetsov Georgy IU7-31B male 19 1.01 16.7.2022 Gorkovo 4 63 24885
+Sidorov Vyacheslav MT13-31M female 16 2.38 2.3.2019 2 295
+Sergeev Kirill MT13-31M male 20 4.47 13.6.2021 2 214
+Sergeev Georgy IU7-11B female 19 2.44 2.4.2018 3 107
+Cmirnov Petr IBM4-32B female 20 3.58 20.8.2023 Molodezhnaya 1 41 29304
+Parshin Evim MT13-31M male 17 2.58 10.8.2022 Sadovaya 6 40
+Vasnetsov Sergey IU7-32B female 16 2.01 6.11.2018 5 110
+Sergeev Evgeniy RK1-11 female 20 4.07 12.8.2022 Gorkovo 10 21 15260
+Vasnetsov Evim IU7-32B female 18 2.7 28.11.2020 Pervomayskaya 4 59 26461
+Vasnetsov Petr IU3-13B female 20 1.12 28.1.2021 Molodezhnaya 5 21
+Silantiev Petr SM3-13 female 20 2.47 4.6.2022 2 97
+Cmirnov Evgeniy RK1-11 female 16 2.09 9.3.2018 Gorkovo 1 18 17003
+Miheev Ivan IU7-11B female 20 1.17 5.8.2018 1 250
+Miheev Evim IU7-32B male 18 1.15 25.5.2018 5 227
+Silantiev Vyacheslav RL4-11B female 18 4.74 26.1.2018 Gorkovo 8 64
+Ivanov Andrew IBM4-32B male 20 1.7 20.9.2020 Petrovka 5 64 18259
+Tuzov Vyacheslav RL4-11B male 17 2.81 6.3.2020 4 5
+Petrov Petr SM3-13 male 19 2.54 12.1.2021 Baumanskaya 7 61 19754
+Parshin Kirill IBM4-32B female 16 2.02 8.8.2020 Baumanskaya 9 18
+Silantiev Evim IU3-13B male 17 1.13 27.4.2020 Molodezhnaya 4 55 27003
+Vasnetsov Evim RL4-11B female 17 2.74 28.12.2020 3 252
+Sidorov Evim IU7-32B female 19 3.89 16.11.2020 1 219
+Miheev Andrew SM3-13 female 18 1.39 8.2.2019 5 101
+Vorobev Evgeniy IBM4-32B male 18 2.41 19.7.2023 3 168
+Petrov Petr IU7-33B male 20 4.1 4.6.2019 Baumanskaya 4 28
+Vasnetsov Vyacheslav IU7-11B male 19 4.71 16.5.2018 Pervomayskaya 10 31 18142
+Miheev Petr IBM4-32B male 20 1.23 8.8.2018 Molodezhnaya 8 74 12374
+Sergeev Ivan IU7-33B female 20 3.52 21.4.2023 1 131
+Sergeev Ivan IU7-11B female 16 2.13 17.12.2021 Sadovaya 10 6
+Sergeev Evim RK1-11 male 17 4.95 20.4.2020 Molodezhnaya 10 52 24355
+Silantiev Alexandr IBM4-32B female 16 4.1 28.10.2018 1 258
+Miheev Daniil MT13-31M female 18 4.81 9.12.2019 Nagornaya 8 24
+Silantiev Sergey RL4-11B female 18 3.66 22.11.2019 2 250
+Cmirnov Andrew MT13-31M female 16 3.4 13.4.2023 Molodezhnaya 9 61 11569
+Vasnetsov Kirill SM3-13 male 18 3.97 17.9.2019 Sadovaya 10 54
+Parshin Sergey RK1-11 male 19 3.55 22.1.2018 3 31
+Sergeev Georgy RL4-11B male 18 2.89 11.1.2021 2 17
+Parshin Andrew IU7-31B male 17 4.63 27.4.2021 Molodezhnaya 4 65 28363
+Sidorov Evim IU7-11B female 19 2.97 4.2.2022 Letnaya 2 21
+Miheev Kirill IU7-33B male 20 3.32 1.6.2020 5 117
+Silantiev Vyacheslav IU7-11B male 16 1.65 7.7.2020 Letnaya 9 42
+Petrov Sergey SM3-13 male 19 2.43 25.5.2021 2 100
+Miheev Kirill IBM4-32B male 19 1.76 12.8.2019 Gorkovo 9 62 29671
+Ivanov Evgeniy IU7-33B male 17 4.64 24.9.2022 Gorkovo 5 67 25762
+Petrov Kirill SM3-13 female 20 1.6 14.12.2019 Molodezhnaya 2 3
+Vasnetsov John IU7-32B female 19 2.45 25.6.2022 Pervomayskaya 5 19 23362
+Vasnetsov Vyacheslav RL4-11B female 20 2.65 14.8.2018 Polynka 10 15 14079
+Vasnetsov Sergey RK1-11 male 17 4.12 14.5.2022 Gorkovo 9 71 25571
+Vorobev Ivan IBM4-32B female 17 3.68 18.2.2019 Sadovaya 6 32
+Silantiev Petr SM3-13 male 16 2.51 20.2.2019 2 49
+Petrov Evgeniy RL4-11B female 19 2.49 15.11.2021 Letnaya 5 53 25484
+Vasnetsov Ivan RL4-11B female 17 3.16 5.9.2018 Zavodskaya 10 68
+Sidorov John IU7-31B female 17 4.14 26.5.2023 Baumanskaya 7 60
+Vorobev Alexandr IBM4-32B female 19 1.03 19.7.2022 Pervomayskaya 8 72 13741
+Vorobev Sergey IU7-33B male 16 2.33 28.11.2023 Molodezhnaya 3 31
+Vorobev Vyacheslav IU7-31B male 17 4.46 25.12.2018 Nagornaya 9 44
+Silantiev Evgeniy IU7-32B female 19 2.42 27.11.2018 3 222
+Vorobev Andrew IU7-11B male 17 4.08 13.4.2023 Nagornaya 6 17
+Vasnetsov John IBM4-32B male 17 4.72 19.10.2022 Sadovaya 3 75
+Miheev Sergey IBM4-32B female 19 2.58 28.6.2021 Petrovka 3 34 21079
+Sidorov Petr IU7-11B female 19 2.47 21.11.2018 Baumanskaya 10 6 17749
+Cmirnov Alexandr IU7-32B male 18 1.24 5.2.2020 Petrovka 9 44
+Cmirnov Daniil IBM4-32B female 16 4.99 17.10.2021 Polynka 9 75
+Vasnetsov Sergey IU7-11B female 17 4.06 22.10.2022 5 31
+Petrov John IU7-32B female 20 4.63 22.5.2018 Letnaya 4 26
+Miheev Alexandr IU7-11B female 18 3.36 14.10.2018 Molodezhnaya 4 55
+Parshin Evim IU7-33B female 19 4.71 12.3.2022 Baumanskaya 10 55
+Sidorov Evim IU3-13B female 20 4.64 27.9.2022 Nagornaya 6 53
+Ivanov Georgy MT13-31M female 19 2.3 8.8.2018 2 100
+Miheev Alexandr IU7-32B male 19 2.18 10.11.2023 Polynka 8 61
+Parshin Alexandr RL4-11B male 19 2.64 12.10.2021 Gorkovo 2 25
+Vorobev John MT13-31M female 17 2.8 25.8.2018 Molodezhnaya 2 32 17693
+Tuzov Ivan IU3-13B female 16 1.61 26.2.2023 3 50
+Parshin Petr MT13-31M female 16 4.41 20.8.2023 Baumanskaya 9 42
+Cmirnov Kirill SM3-13 female 17 3.94 18.6.2022 Polynka 7 39 27718
+Sergeev Daniil RL4-11B male 18 1.73 12.9.2018 Baumanskaya 1 1 23869
+Sergeev John SM3-13 male 16 2.09 11.8.2020 5 88
+Sidorov John RL4-11B female 16 4.05 14.7.2019 Baumanskaya 10 16
+Vasnetsov John IU7-31B male 19 2.62 24.11.2023 3 133
+Parshin Alexandr IU7-32B male 18 2.26 2.8.2019 Molodezhnaya 10 52 21320
+Parshin Kirill IU7-31B male 16 3.52 12.4.2022 2 120
+Sergeev Petr RL4-11B female 17 1.91 11.3.2019 Zavodskaya 8 61
+Petrov Daniil IBM4-32B male 16 1.62 14.8.2018 Polynka 2 70 17296
+Vasnetsov Evim RL4-11B female 18 1.37 7.7.2020 1 111
+Cmirnov Ivan MT13-31M male 16 3.14 27.8.2018 Sadovaya 9 9 10393
+Cmirnov Sergey SM3-13 female 20 2.17 16.8.2018 3 20
+Sidorov John IU7-32B female 17 2.06 23.6.2022 Sadovaya 5 1 18656
+Tuzov Sergey IU7-32B female 19 3.13 11.8.2020 5 146
+Cmirnov Kirill IU7-31B female 17 2.31 13.5.2022 3 181
+Miheev Alexandr IBM4-32B female 17 3.72 11.1.2021 4 239
+Petrov Petr IU3-13B male 20 3.25 17.2.2020 4 99
+Miheev Alexandr IU7-32B male 16 3.65 24.8.2019 Polynka 7 21
+Miheev Andrew IU3-13B male 17 1.9 21.11.2022 3 68
+Petrov Vyacheslav IU7-31B male 19 4.71 19.11.2022 1 56
+Miheev Alexandr IU7-11B female 20 1.98 1.12.2018 Zavodskaya 4 71
+Miheev Petr IU7-33B female 18 1.33 13.7.2022 4 253
+Parshin Evgeniy IU7-32B female 17 3.84 24.5.2021 Zavodskaya 7 33 10649
+Ivanov John IU7-33B female 19 3.71 26.9.2019 2 217
+Miheev Andrew RL4-11B female 20 1.16 11.7.2018 3 48
+Silantiev Alexandr SM3-13 male 18 3.72 14.11.2020 5 175
+Cmirnov Andrew IBM4-32B male 19 3.45 16.12.2020 1 196
+Miheev Petr IU7-11B female 19 3.36 12.8.2023 3 74
+Ivanov Daniil IU7-33B male 19 2.28 26.10.2019 Baumanskaya 6 17
+Sidorov Vyacheslav SM3-13 female 20 1.47 19.4.2020 2 221
+Ivanov Daniil IU7-31B female 18 2.42 2.5.2019 Sadovaya 10 67 21263
+Vorobev Petr SM3-13 male 17 4.21 20.1.2019 Nagornaya 1 30
+Vasnetsov Daniil IU7-11B male 18 2.79 22.12.2019 5 152
+Cmirnov Petr MT13-31M male 17 1.09 20.12.2022 Petrovka 9 62 21762
+Sergeev Ivan IU7-11B male 16 2.29 3.1.2021 Polynka 1 40 18688
+Tuzov Kirill IU3-13B female 17 3.28 9.2.2023 4 273
+Vorobev John RL4-11B female 17 3.18 6.1.2019 Polynka 4 67
+Sidorov Georgy IU7-31B female 20 2.37 26.4.2020 Pervomayskaya 1 35 25896
+Parshin Andrew IU7-32B female 19 1.76 3.4.2020 4 36
+Sidorov Ivan IBM4-32B male 17 3.5 26.7.2022 Molodezhnaya 2 47 18654
+Vasnetsov Georgy IBM4-32B female 20 1.22 22.1.2019 Baumanskaya 4 32
+Parshin Evgeniy IU7-33B female 16 3.1 18.4.2019 Molodezhnaya 10 12
+Vorobev Andrew IBM4-32B female 19 4.19 25.10.2019 3 177
+Sergeev Evgeniy RK1-11 male 17 2.5 14.9.2020 Nagornaya 3 24 29215
+Vasnetsov Petr IU3-13B male 19 3.56 4.10.2019 Sadovaya 1 43
+Ivanov Daniil IU7-32B male 18 4.1 6.3.2018 4 297
+Sidorov Andrew IU7-32B female 17 4.94 9.1.2022 Pervomayskaya 8 27
+Vorobev Alexandr IU7-32B female 17 1.4 7.8.2021 1 276
+Petrov Sergey IBM4-32B male 19 1.32 25.12.2018 4 229
+Sidorov Evgeniy IU3-13B female 16 4.16 2.4.2020 Polynka 1 17
+Vasnetsov Petr RK1-11 male 18 2.93 5.7.2020 Sadovaya 10 28 17466
+Parshin Kirill SM3-13 male 16 4.31 25.9.2019 Petrovka 8 18
+Vasnetsov Andrew IU7-32B male 19 1.7 8.10.2021 Nagornaya 7 17
+Parshin Kirill IU3-13B female 16 4.49 17.9.2021 3 110
+Miheev Evgeniy IU7-33B female 20 3.57 15.6.2020 2 225
+Ivanov Evgeniy MT13-31M male 20 4.95 4.7.2022 Gorkovo 7 18
+Sergeev Georgy IU7-31B male 17 4.22 1.11.2018 4 136
+Sidorov Alexandr IU7-31B female 17 3.05 10.1.2023 3 128
+Vasnetsov Evgeniy RK1-11 male 20 3.4 15.11.2018 2 235
+Tuzov Vyacheslav IU3-13B male 16 3.47 22.7.2018 3 195
+Cmirnov Kirill RK1-11 female 19 3.29 13.1.2019 Petrovka 10 16
+Sidorov Andrew IU7-31B male 19 2.67 2.12.2021 2 139
+Ivanov Evgeniy IU7-11B male 20 1.71 15.2.2021 1 81
+Ivanov Andrew RL4-11B female 20 1.78 9.11.2022 2 137
+Miheev Georgy RK1-11 female 16 1.86 5.4.2022 Nagornaya 8 16
+Cmirnov Ivan IBM4-32B female 18 1.51 11.10.2020 2 96
+Parshin Kirill IU7-11B male 16 4.82 17.3.2022 Nagornaya 1 18
+Silantiev Petr IU7-31B female 16 1.43 14.3.2019 Petrovka 6 56
+Miheev John MT13-31M female 19 2.52 18.2.2020 Gorkovo 3 22 19213
+Petrov Daniil MT13-31M male 17 2.72 5.12.2022 2 241
+Parshin Evgeniy MT13-31M female 19 1.46 2.12.2019 5 137
+Vorobev Petr SM3-13 male 18 2.19 9.1.2018 Zavodskaya 7 50 13814
+Silantiev Daniil IU7-33B male 19 1.33 16.9.2021 Petrovka 1 13 25843
+Parshin Kirill RK1-11 male 20 4.65 2.8.2020 Zavodskaya 4 11
+Tuzov Evim IU7-31B female 16 3.09 14.4.2021 4 159
+Ivanov Kirill IU7-33B male 17 3.7 8.10.2019 2 58
+Vasnetsov Evim IU3-13B male 19 4.01 13.4.2018 Gorkovo 7 12 24053
+Petrov Vyacheslav IU7-32B male 18 2.49 2.6.2022 Pervomayskaya 1 63 20373
+Miheev Vyacheslav SM3-13 male 19 2.43 8.11.2019 2 198
+Parshin Daniil RL4-11B male 18 4.89 13.1.2022 Polynka 2 30 23881
+Cmirnov Ivan SM3-13 male 18 1.12 7.2.2022 1 37
+Vorobev Kirill IU7-32B female 17 3.89 22.3.2018 Pervomayskaya 1 14 17966
+Sidorov Ivan RK1-11 female 18 2.38 11.10.2022 Petrovka 2 22 15572
+Parshin Sergey RK1-11 female 19 3.97 5.3.2020 Sadovaya 9 42 28469
+Ivanov Evim SM3-13 female 20 4.21 15.10.2021 Polynka 2 24
+Ivanov Vyacheslav MT13-31M male 20 4.43 13.10.2021 Sadovaya 5 57
+Vorobev Andrew RK1-11 male 17 3.75 7.3.2022 Letnaya 8 73
+Silantiev Evgeniy RK1-11 female 16 4.41 21.1.2021 4 55
+Petrov Andrew IU3-13B female 20 2.62 23.7.2021 Letnaya 3 73
+Cmirnov Vyacheslav IU7-33B female 16 1.52 8.9.2020 Nagornaya 9 9 16888
+Silantiev Evim MT13-31M female 18 3.55 18.11.2023 3 266
+Vorobev Kirill RK1-11 male 19 4.78 22.4.2021 2 150
+Cmirnov Sergey IU3-13B female 16 3.55 5.7.2023 4 92
+Sergeev Andrew RL4-11B female 18 2.12 20.5.2019 Nagornaya 4 58
+Ivanov Ivan RL4-11B female 20 3.18 3.1.2021 Petrovka 7 32 24984
+Tuzov Andrew IU7-32B male 17 2.44 24.10.2023 5 67
+Silantiev Petr IU7-32B male 20 1.37 15.5.2019 Baumanskaya 4 65 13448
+Vasnetsov Vyacheslav SM3-13 male 17 4.54 24.2.2018 Pervomayskaya 2 26
+Parshin Evgeniy IBM4-32B female 19 4.09 17.7.2018 5 171
+Miheev Alexandr IU7-32B female 17 2.31 19.5.2022 Letnaya 1 6 23702
+Vorobev Sergey IU7-33B female 20 4.29 11.1.2020 4 13
+Tuzov Evim SM3-13 male 17 3.06 15.10.2019 Polynka 10 72
+Ivanov Daniil IU7-33B female 18 2.35 7.11.2018 Zavodskaya 8 62
+Ivanov Vyacheslav IU7-31B male 19 2.69 12.5.2023 Letnaya 8 27 17354
+Tuzov Vyacheslav IU3-13B female 17 2.92 16.9.2021 2 85
+Parshin Georgy RK1-11 female 19 3.61 25.9.2018 Pervomayskaya 4 34
+Cmirnov Sergey SM3-13 male 16 4.39 3.6.2020 Nagornaya 2 6 13416
